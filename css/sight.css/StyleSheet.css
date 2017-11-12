@@ -1,0 +1,8 @@
+﻿body {
+}
+
+header.intro {
+    background: url('../../JdSayCheese.jpg') !important;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
