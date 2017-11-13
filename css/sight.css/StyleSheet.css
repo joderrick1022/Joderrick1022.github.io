@@ -2,7 +2,33 @@
 }
 
 header.intro {
-    background: url('../../JdSayCheese.jpg') !important;
-    background-repeat:no-repeat;
-    background-size:cover;
+    background-size: cover  !important;
+    background-image: url('../../ThinkstockPhotos-629285904-1030x761.jpg');
+    color:orangered;
 }
+
+#sayCheese{
+    height:375px;
+    width:375px;
+}
+
+#download{
+    background-image: url('../../JdSayPrayer.jpg');
+    background-size:cover !important;
+    height:300px !important;
+}
+
+#wardrobe{
+height:250px;
+}
+
+#Travel{
+    height:250px;
+}
+
+#bank{
+    height:250px;
+}
+
+
+
