@@ -30,5 +30,10 @@ height:250px;
     height:250px;
 }
 
+.thumbnail .caption {
+    padding: 9px;
+    color: #146977 !important;
+}
+
 
 
